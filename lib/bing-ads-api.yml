@@ -449,6 +449,7 @@ constants:
         keyword_id: "KeywordId"
         ad_name: "AdName"
         ad_id: "AdId"
+        ad_type: "AdType"
         destination_url: "DestinationUrl"
         current_max_cpc: "CurrentMaxCpc"
         currency_code: "CurrencyCode"
